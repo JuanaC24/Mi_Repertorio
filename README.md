@@ -91,7 +91,7 @@ El servidor estará disponible en `http://localhost:3000`.
 
 ## Contribución
 
-Las contribuciones al proyecto son bienvenidas. Por favor, asegúrate de actualizar las pruebas según sea necesario.
+Las contribuciones al proyecto son bienvenidas.
 
 
 ## Autores
